@@ -1,0 +1,10 @@
+{
+  "name": "angular_menu",
+  "version": "1.0.0",
+  "description": "angular left menu",
+  "main": "index.js",
+  "scripts": {
+  },
+  "author": "ankuse",
+  "license": "ISC"
+}
